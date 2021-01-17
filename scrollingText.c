@@ -13,3 +13,6 @@ int main()
     }
     for(int i = 0; i < b; i++)
         printf("%c",text[i]);
+    
+    return 0;
+}
