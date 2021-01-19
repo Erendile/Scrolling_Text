@@ -4,7 +4,7 @@
 
 int main()
 {
-    char text[] = "I COULDN'T FIND A NAME";
+    char text[] = "TYPE EFFECT";
     int s = strlen(text);
     for(int i = 0; i < s; i++)
     {
